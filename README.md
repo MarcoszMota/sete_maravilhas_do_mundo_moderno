@@ -1,1 +1,1 @@
-# 7 Maravilhas do Mundo Moderno
+# 7 Maravilhas do Mundo Antigo
