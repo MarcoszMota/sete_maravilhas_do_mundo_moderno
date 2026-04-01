@@ -2,6 +2,10 @@
     border-bottom: 1px solid grey;
 }
 
+.navbar-brand img {
+    width: 5rem;
+}
+
 .nav-link {
     color: black;
 }
@@ -20,4 +24,19 @@
 .carousel-inner {
   border-radius: 15px;
   overflow: hidden;
+}
+
+.btn-primary {
+    width: 10rem;
+    transition: 0.7s;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #ffffff;
+    color: var(--bs-blue);
+    border: 1px solid var(--bs-blue);
+}
+
+.enquadrar img {
+    object-fit: contain;
 }
