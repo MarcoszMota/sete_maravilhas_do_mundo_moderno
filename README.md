@@ -18,15 +18,7 @@
   - Espaços em branco ou tabs para indentação?
     tabs
 ```
-### Regras para criar em JavaScript
-```
-- Variáveis
-- Funções
-- Classes
-- Objetos
-- Comentários?
-- Como será o evento de clique do javascript? direto no html  com onclick ou pelo addEventListener?
-```
+
 ### Estrutura HTML
 ```
 - Vai utilizar <br>?
@@ -35,8 +27,17 @@
   fluido
 - Quais serão os breakpoints responsivos utilizados? O layout ficará responsivo somente na transição
 de tela entre mobile e desktop? ou vai abranger outro tamanho de tela?
+        <576px;
+    sm	≥576px;
+    md	≥768px;
+	  lg	≥992px;
+	  xl	≥1200px;
+    Sim.
 - Discuta com o grupo e anote no markdown o nome das páginas que serão criadas.
+  index.html, galeria.html, sobre.html, nome_da_maravilha.html 
 - Adicione ao markdown o tema de cores que será utilizado no site
+  Cor do Fundo - #FFFFF
+  Cor do Texto - #00000
 ```
 ### Wireframe
 ![Wireframe feito para melhor visualização da estrutura da página inicial do site](/assets/images/wireframe.jpeg)
