@@ -24,8 +24,8 @@
 ```
 - Vai utilizar <br>?
 - Vai utiilzar layout fixo ou fluido?
-- Quais serão os breakpoints responsivos utilizados? O layout ficará responsivo somente na transição de tela entre mobile e
-desktop? ou vai abranger outro tamanho de tela?
+- Quais serão os breakpoints responsivos utilizados? O layout ficará responsivo somente na transição
+de tela entre mobile e desktop? ou vai abranger outro tamanho de tela?
 - Discuta com o grupo e anote no markdown o nome das páginas que serão criadas.
 - Adicione ao markdown o tema de cores que será utilizado no site
 ```
